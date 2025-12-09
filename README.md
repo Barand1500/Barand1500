@@ -76,23 +76,4 @@
 
 ---
 
-
-# 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Barand1500&theme=tokyonight&hide_border=false&include_all_commits=true&count_private=true" height="170" />
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Barand1500&theme=tokyonight&hide_border=false" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Barand1500&theme=tokyonight&layout=compact&hide_border=false" height="170" />
-</div>
-
----
-
-# 🏆 Achievements
-![](https://github-profile-trophy.vercel.app/?username=Barand1500&theme=dracula&no-frame=true&margin-w=10)
-
----
-
 ### 🦋 *“Bir günlük yaşasan bile iz bırak.” — MayflySystems*
